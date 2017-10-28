@@ -1,17 +1,17 @@
 {
-  "name": "Join the Free Code Camp Community",
+  "name": "Bergabung Dengan Komunitas Free Code Camp",
   "order": 1,
-  "time": "15 minutes",
-  "helpRoom": "Help",
+  "time": "15 menit",
+  "helpRoom": "Bantuan",
   "challenges": [
     {
       "id": "560add10cb82ac38a17513be",
-      "title": "Learn how Free Code Camp Works",
+      "title": "Belajar Cara Free Code Camp Bekerja.",
       "description": [
         [
           "//i.imgur.com/6ibIavQ.jpg",
-          "A picture of Free Code Camp's 4 benefits: Get connected, Learn JavaScript, Build your Portfolio, Help nonprofits",
-          "Welcome to Free Code Camp. We're an open source community of busy people who learn to code and help nonprofits.",
+          "Gambar 4 manfaat Free Code Camp: Terhubung, Pelajari JavaScript, Bangun Portofolio Anda, bantu organisasi nirlaba",
+          "Selamat Datang di Free Code Camp. Kami adalah komunitas open source dari orang-orang sibuk yang belajar untuk kode dan membantu organisasi nirlaba.",
           ""
         ],
         [
